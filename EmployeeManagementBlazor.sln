@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Web", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{BADD08D5-06DB-4330-930C-9CE3F2A454F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BBC07AFE-001A-4DCF-A2AC-F4310EF336E7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +24,5 @@ Global
 		{BADD08D5-06DB-4330-930C-9CE3F2A454F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADD08D5-06DB-4330-930C-9CE3F2A454F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADD08D5-06DB-4330-930C-9CE3F2A454F6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBC07AFE-001A-4DCF-A2AC-F4310EF336E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBC07AFE-001A-4DCF-A2AC-F4310EF336E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBC07AFE-001A-4DCF-A2AC-F4310EF336E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBC07AFE-001A-4DCF-A2AC-F4310EF336E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
